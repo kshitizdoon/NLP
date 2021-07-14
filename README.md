@@ -1,2 +1,2 @@
 # NLP
-This repo contains my work on the Udemy course Natural Language Processing using python.
+This repo contains my work on Natural Language Processing using python.
